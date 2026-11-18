@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520">
+  <title>FEROFIRE logo</title>
+  <desc>Editable FEROFIRE wordmark. FERO in a strong sans-serif, FIRE in a warm flame orange.</desc>
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">
+    <text x="800" y="280" font-size="190" letter-spacing="-7">
+      <tspan fill="#202020">FERO</tspan><tspan fill="#B84B25">FIRE</tspan>
+    </text>
+    <text x="800" y="365" font-size="38" letter-spacing="13" fill="#555555" font-weight="500">FIRE  •  GRILL  •  COOKING</text>
+  </g>
+</svg>
