@@ -1,0 +1,44 @@
+{
+  "home": {
+    "title": "Усі товари",
+    "path": ""
+  },
+  "categories": [
+    {
+      "id": "tandyr",
+      "title": "Аксесуари для тандиру",
+      "icon": "🔥",
+      "path": "tandyr/"
+    },
+    {
+      "id": "skovorody",
+      "title": "Сковорідки",
+      "icon": "🍳",
+      "path": "skovorody/"
+    },
+    {
+      "id": "shampury",
+      "title": "Шампури",
+      "icon": "🍢",
+      "path": "shampury/"
+    },
+    {
+      "id": "avtoklavy",
+      "title": "Автоклави",
+      "icon": "🫙",
+      "path": "avtoklavy/"
+    },
+    {
+      "id": "kazany",
+      "title": "Казани",
+      "icon": "🍲",
+      "path": "kazany/"
+    },
+    {
+      "id": "mangaly",
+      "title": "Мангали",
+      "icon": "🥩",
+      "path": "mangaly/"
+    }
+  ]
+}

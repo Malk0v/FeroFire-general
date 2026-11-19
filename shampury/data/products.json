@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "name": "Шампур плоский 3 мм",
+    "description": "Класичний плоский шампур з нержавіючої сталі, товщина 3 мм.",
+    "images": [
+      "img/shamp-3mm.jpg"
+    ],
+    "category": "Шампури",
+    "options": [
+      {
+        "diameter": "40 см",
+        "price": 55
+      },
+      {
+        "diameter": "50 см",
+        "price": 65
+      },
+      {
+        "diameter": "60 см",
+        "price": 75
+      },
+      {
+        "diameter": "70 см",
+        "price": 90
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Шампур плоский 5 мм",
+    "description": "Посилений шампур для великих шматків м'яса, товщина 5 мм.",
+    "images": [
+      "img/shamp-5mm.jpg"
+    ],
+    "category": "Шампури",
+    "options": [
+      {
+        "diameter": "50 см",
+        "price": 85
+      },
+      {
+        "diameter": "60 см",
+        "price": 100
+      },
+      {
+        "diameter": "70 см",
+        "price": 120
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Шампур кутовий",
+    "description": "Кутовий профіль надійно тримає м'ясо та не дає шматкам провертатись.",
+    "images": [
+      "img/shamp-corner.jpg"
+    ],
+    "category": "Шампури",
+    "options": [
+      {
+        "diameter": "60 см",
+        "price": 90
+      },
+      {
+        "diameter": "70 см",
+        "price": 110
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Шампур з дерев'яною ручкою",
+    "description": "Ручка з дерева не нагрівається, зручно перевертати над вогнем.",
+    "images": [
+      "img/shamp-wood.jpg"
+    ],
+    "category": "Шампури",
+    "options": [
+      {
+        "diameter": "60 см",
+        "price": 140
+      },
+      {
+        "diameter": "70 см",
+        "price": 165
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Шампур для люля-кебаб",
+    "description": "Широкий шампур для фаршу, люля тримається без зісковзування.",
+    "images": [
+      "img/shamp-lula.jpg"
+    ],
+    "category": "Шампури",
+    "options": [
+      {
+        "diameter": "50 см",
+        "price": 95
+      },
+      {
+        "diameter": "60 см",
+        "price": 115
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Набір шампурів 6 шт у чохлі",
+    "description": "Шість плоских шампурів у щільному чохлі для зберігання та перевезення.",
+    "images": [
+      "img/shamp-set.jpg"
+    ],
+    "category": "Набори",
+    "options": [
+      {
+        "diameter": "50 см",
+        "price": 480
+      },
+      {
+        "diameter": "60 см",
+        "price": 560
+      },
+      {
+        "diameter": "70 см",
+        "price": 660
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Підставка для шампурів",
+    "description": "Металева підставка, щоб шампури не лежали на землі та не гоїлись.",
+    "images": [
+      "img/shamp-stand.jpg"
+    ],
+    "category": "Аксесуари",
+    "options": [
+      {
+        "diameter": "на 6 шампурів",
+        "price": 650
+      },
+      {
+        "diameter": "на 10 шампурів",
+        "price": 900
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Чохол для шампурів",
+    "description": "Щільний чохол із ручкою для перевезення та зберігання.",
+    "images": [
+      "img/shamp-case.jpg"
+    ],
+    "category": "Аксесуари",
+    "options": [
+      {
+        "diameter": "60 см",
+        "price": 220
+      },
+      {
+        "diameter": "70 см",
+        "price": 260
+      }
+    ]
+  }
+]

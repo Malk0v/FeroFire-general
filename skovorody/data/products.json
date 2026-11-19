@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "Сковорідка чавунна",
+    "description": "Чавунна сковорідка з товстим дном. Рівномірно нагрівається, довго тримає тепло.",
+    "images": [
+      "img/skov-chavun.jpg"
+    ],
+    "category": "Чавунні",
+    "options": [
+      {
+        "diameter": "22 см",
+        "price": 650
+      },
+      {
+        "diameter": "24 см",
+        "price": 780
+      },
+      {
+        "diameter": "26 см",
+        "price": 900
+      },
+      {
+        "diameter": "28 см",
+        "price": 1050
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Сковорідка-гриль чавунна",
+    "description": "Рифлена поверхня для стейків, овочів і риби. Підходить для плити та мангала.",
+    "images": [
+      "img/skov-gril.jpg"
+    ],
+    "category": "Чавунні",
+    "options": [
+      {
+        "diameter": "26 см",
+        "price": 950
+      },
+      {
+        "diameter": "30 см",
+        "price": 1200
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Сковорідка сталева",
+    "description": "Легка сталева сковорідка для щоденного приготування та для тандира.",
+    "images": [
+      "img/skov-stal.jpg"
+    ],
+    "category": "Сталеві",
+    "options": [
+      {
+        "diameter": "21 см",
+        "price": 300
+      },
+      {
+        "diameter": "23 см",
+        "price": 340
+      },
+      {
+        "diameter": "26 см",
+        "price": 380
+      },
+      {
+        "diameter": "28 см",
+        "price": 420
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Сковорідка-вок сталева",
+    "description": "Глибока сковорідка для швидкого смаження на сильному вогні.",
+    "images": [
+      "img/skov-wok.jpg"
+    ],
+    "category": "Сталеві",
+    "options": [
+      {
+        "diameter": "32 см",
+        "price": 780
+      },
+      {
+        "diameter": "36 см",
+        "price": 920
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Сковорідка для млинців",
+    "description": "Низькі борти і рівне дно, щоб млинці легко перевертались.",
+    "images": [
+      "img/skov-pancake.jpg"
+    ],
+    "category": "Сталеві",
+    "options": [
+      {
+        "diameter": "22 см",
+        "price": 420
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Кришка для сковорідки",
+    "description": "Сталева кришка з ручкою, що не нагрівається.",
+    "images": [
+      "img/skov-lid.jpg"
+    ],
+    "category": "Аксесуари",
+    "options": [
+      {
+        "diameter": "24 см",
+        "price": 180
+      },
+      {
+        "diameter": "26 см",
+        "price": 200
+      },
+      {
+        "diameter": "28 см",
+        "price": 230
+      }
+    ]
+  }
+]

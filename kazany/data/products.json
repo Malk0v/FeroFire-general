@@ -1,0 +1,159 @@
+[
+  {
+    "id": 1,
+    "name": "Казан чавунний з кришкою",
+    "description": "Класичний чавунний казан із кришкою. Довго тримає тепло, добре підходить для плову і тушкування.",
+    "images": [
+      "img/kaz-iron.jpg"
+    ],
+    "category": "Чавунні",
+    "options": [
+      {
+        "diameter": "4 л",
+        "price": 1800
+      },
+      {
+        "diameter": "6 л",
+        "price": 2300
+      },
+      {
+        "diameter": "8 л",
+        "price": 2900
+      },
+      {
+        "diameter": "10 л",
+        "price": 3500
+      },
+      {
+        "diameter": "12 л",
+        "price": 4200
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Казан узбецький плоскодонний",
+    "description": "Чавунний казан з плоским дном, підходить для плити та мангала.",
+    "images": [
+      "img/kaz-flat.jpg"
+    ],
+    "category": "Чавунні",
+    "options": [
+      {
+        "diameter": "8 л",
+        "price": 2600
+      },
+      {
+        "diameter": "12 л",
+        "price": 3800
+      },
+      {
+        "diameter": "16 л",
+        "price": 5100
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Казан для плову круглодонний",
+    "description": "Круглодонний чавунний казан для приготування на вогні в тагані.",
+    "images": [
+      "img/kaz-round.jpg"
+    ],
+    "category": "Чавунні",
+    "options": [
+      {
+        "diameter": "10 л",
+        "price": 3200
+      },
+      {
+        "diameter": "14 л",
+        "price": 4300
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Казан алюмінієвий",
+    "description": "Легкий алюмінієвий казан, швидко нагрівається.",
+    "images": [
+      "img/kaz-alu.jpg"
+    ],
+    "category": "Алюмінієві",
+    "options": [
+      {
+        "diameter": "8 л",
+        "price": 850
+      },
+      {
+        "diameter": "12 л",
+        "price": 1100
+      },
+      {
+        "diameter": "16 л",
+        "price": 1450
+      },
+      {
+        "diameter": "22 л",
+        "price": 1900
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Кришка для казана",
+    "description": "Сталева кришка, що щільно прилягає.",
+    "images": [
+      "img/kaz-lid.jpg"
+    ],
+    "category": "Аксесуари",
+    "options": [
+      {
+        "diameter": "8 л",
+        "price": 350
+      },
+      {
+        "diameter": "12 л",
+        "price": 450
+      },
+      {
+        "diameter": "16 л",
+        "price": 600
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Набір шумівка та черпак",
+    "description": "Дві корисні речі для плову і шурпи, з довгими ручками.",
+    "images": [
+      "img/kaz-tools.jpg"
+    ],
+    "category": "Аксесуари",
+    "options": [
+      {
+        "diameter": "2 предмети",
+        "price": 280
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Таган під казан",
+    "description": "Сталева підставка з трьома ніжками під казан на відкритому вогні.",
+    "images": [
+      "img/kaz-tagan.jpg"
+    ],
+    "category": "Аксесуари",
+    "options": [
+      {
+        "diameter": "Ø 45 см",
+        "price": 750
+      },
+      {
+        "diameter": "Ø 55 см",
+        "price": 950
+      }
+    ]
+  }
+]

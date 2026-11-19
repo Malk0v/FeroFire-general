@@ -1,0 +1,5 @@
+# Замініть your-domain.example на ваш справжній домен
+User-agent: *
+Allow: /
+
+Sitemap: https://your-domain.example/sitemap.xml
